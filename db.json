@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Phong",
+      "location": {
+        "lat": 7.3276,
+        "long": 33.979214
+      }
+    },
+    {
+      "id": 2,
+      "name": "Test",
+      "location": {
+        "lat": 10.3276,
+        "long": 11.979214
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nguyen",
+      "location": {
+        "lat": 70.3276,
+        "long": 51.979214
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hoai",
+      "location": {
+        "lat": 100.3276,
+        "long": 1.979214
+      }
+    }
+  ]
+}
